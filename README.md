@@ -67,7 +67,7 @@ Tenho interesse e experiência na aplicação de práticas e padrões arquitetur
   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,python" />
 </div>
 
-**Tecnologias:** Java 8–21, Kotlin, Spring Boot, Spring Cloud, Spring Security, Quarkus, Java EE, Node.js e Python.
+**Tecnologias:** Java 6–25, Kotlin, Spring Boot, Spring Cloud, Spring Security, Quarkus, Java EE, Node.js e Python.
 
 ### Frameworks & Integração
 
